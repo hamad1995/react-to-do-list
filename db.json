@@ -3,8 +3,14 @@
     {
       "text": "hello",
       "day": "today",
-      "reminder": true,
+      "reminder": false,
       "id": 1
+    },
+    {
+      "text": "asdf",
+      "day": "asdf",
+      "reminder": false,
+      "id": 2
     }
   ]
 }
